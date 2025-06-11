@@ -1,6 +1,6 @@
 # zion1234-code.github.io
-<p align="center">
-  <img src="zion pease website.png" alt="Zion Logo" style="height: 500px;">
+<p align="side">
+  <img src="zion pease website.png" alt="Zion Logo" style="height: 300px;">
 </p>
 
 <h2> About Me </h2>
