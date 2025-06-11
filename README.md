@@ -19,4 +19,4 @@ As I approach the final year of my undergraduate studies, I am eager to apply my
 
 
 </p>
-<img src="zionpease.jpg" width="150px">
+<img src="zionpease.jpg" width="200px">
